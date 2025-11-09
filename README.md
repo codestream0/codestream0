@@ -20,7 +20,7 @@ I enjoy transforming ideas into real-world solutions using modern technologies t
 ### 🛠️ My Tech Stack
 
 **Frontend:**  
-`React` · `Next.js` · `JavaScript` · `TypeScript` · `Tailwind CSS` · `Firebase`
+`React` · `Next.js` · `JavaScript` · `TypeScript` · `Tailwind CSS` · `Firebase` · `python`
 
 **Backend:**  
 `Node.js` · `Express.js` · `NestJS`
@@ -29,7 +29,7 @@ I enjoy transforming ideas into real-world solutions using modern technologies t
 `MongoDB` · `PostgreSQL` · `Supabase`
 
 **Others:**  
-`Git` · `REST APIs` · `WebSockets` · `JWT` · `Docker (learning)`
+`Git` · `REST APIs` · `WebSockets` · `JWT` · `Docker ` · `ethereum` · `blockchain`
 
 ---
 
