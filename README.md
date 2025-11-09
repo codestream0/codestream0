@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Hamza Abdulfatah  
+# 👋 Hey there, I'm Hamza Abdulfatah(codestream)  
 
 I'm a **Full-Stack Web Developer** passionate about building digital products that are fast, functional, and beautiful.  
 I enjoy transforming ideas into real-world solutions using modern technologies that empower users and businesses alike.  
@@ -29,7 +29,7 @@ I enjoy transforming ideas into real-world solutions using modern technologies t
 `MongoDB` · `PostgreSQL` · `Supabase`
 
 **Others:**  
-`Git` · `REST APIs` · `WebSockets` · `JWT` · `Docker ` · `ethereum` · `blockchain`
+`Git` · `REST APIs` · `WebSockets` · `JWT` · `Docker ` · `ethereum` · `blockchain` · `apache kafka`
 
 ---
 
@@ -37,7 +37,7 @@ I enjoy transforming ideas into real-world solutions using modern technologies t
 ### 📚 Currently Learning
 
 - ☁️ Cloud Engineering & Deployment with **Docker** and **Supabase**  
-- 💬 Building scalable **WebSocket** chat systems  
+- 💬 Building scalable **WebSocket** real time app 
 - 🧰 Automating workflows with **DevOps practices**
 - 🌐 Learning Web3 technologies to build decentralized applications (dApps) and connect blockchain with modern web platforms.
 
