@@ -55,7 +55,8 @@ I enjoy transforming ideas into real-world solutions using modern technologies t
 
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codestream0&show_icons=true&theme=radical&count_private=true&cache_seconds=3600)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestream0&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=codestream0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codestream0&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 ---
