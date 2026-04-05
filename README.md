@@ -9,7 +9,7 @@ I enjoy transforming ideas into real-world solutions using modern technologies t
 
 ### 🧠 What I Do
 
-- 💻 I design and build **web apps** from scratch — from clean UI to efficient backend APIs.  
+- 💻 I design and build **web apps** from scratch using react and next — from clean UI to efficient backend APIs.  
 - ⚙️ I focus on **scalability**, **security**, and **performance** in everything I build.  
 - 🚀 I love **learning new technologies** and implementing them in real projects.  
 - 💬 I collaborate with developers, designers, and teams to bring ideas to life.  
