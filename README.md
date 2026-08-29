@@ -34,15 +34,6 @@ I enjoy transforming ideas into real-world solutions using modern technologies t
 ---
 
 
-### 📚 Currently Learning
-
-- ☁️ Cloud Engineering & Deployment with **Docker** and **Supabase**  
-- 💬 Building scalable **WebSocket** real time app 
-- 🧰 Automating workflows with **DevOps practices**
-- 🌐 Learning Web3 technologies to build decentralized applications (dApps) and connect blockchain with modern web platforms.
-
----
-
 ### 🌍 Connect with Me
 
 - 💼 [GitHub](https://github.com/codestream0)  
@@ -50,12 +41,11 @@ I enjoy transforming ideas into real-world solutions using modern technologies t
 - 📧 [Email Me](mailto:hamzaabdulfatah235@gmail.com)
 
 ---
+## 📊 GitHub Stats
 
-### ⚙️ GitHub Stats
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codestream0&show_icons=true&theme=radical)
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codestream0&show_icons=true&theme=radical&count_private=true&cache_seconds=3600)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestream0&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codestream0&layout=compact&theme=radical)
 ---
 
 ### 🎯 Goals
